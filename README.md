@@ -1,6 +1,6 @@
 Heater Control Raspberry Pi
 
-Heater Control with based on Raspberry Pi with GPIO.
+Heater Control based on Raspberry Pi with GPIO.
 Usage for smart home and controlling the radiator .
 You can also use it with openHAB 2 (https://www.openhab.org)
 
